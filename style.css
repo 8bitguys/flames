@@ -94,10 +94,12 @@
 body{
   background-color:#E73333;
   font-size: 18px;
-  width: 800px;
+}
+
+.main{
+   width: 800px;
   margin: 0 auto;
   text-align: center;
 }
-
 
 }
