@@ -1,0 +1,14 @@
+body{
+  background-color: red;
+}
+
+input[type="text"] {
+    width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    background-color: yellow;
+}
+
+h3{
+  border: 3px rounded black;
+  font-family: Roboto-Slab;
