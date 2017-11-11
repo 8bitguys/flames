@@ -12,3 +12,8 @@ input[type="text"] {
 h3{
   border: 3px rounded black;
   font-family: Roboto-Slab;
+  
+  h3:hover{
+    background-color: midnight-blue;
+    color: orange;
+    font: Montserrat;
